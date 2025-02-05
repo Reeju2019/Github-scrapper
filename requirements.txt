@@ -1,0 +1,7 @@
+requests==2.31.0
+redis==5.0.1
+pymongo==4.5.0  # Only if using MongoDB
+python-dotenv==1.0.0  # For managing environment variables
+requests==2.31.0
+boto3==1.28.0
+python-dotenv==1.0.0
